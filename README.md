@@ -1,2 +1,4 @@
 # 148_Final_Project
-group final project for dsc148 at UCSD
+## Playlist Prediction: Machine Learning for Personalized Music Curation
+
+https://docs.google.com/document/d/1gpCOapyRCr4t1GfkoowalnGWX6QNVYzX7BIeGxZMh2I/edit?usp=sharing
